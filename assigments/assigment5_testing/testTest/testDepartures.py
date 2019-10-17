@@ -1,5 +1,5 @@
 import pytest
-from testFunctions.Departutes import Destination, Choice
+from testFunctions.Departures import Destination, Choice
  
  
   def test_DepartureSelection()
