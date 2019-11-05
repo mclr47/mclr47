@@ -1,0 +1,24 @@
+  Name :Martian Lapadatescu
+   Pawprint:mclr47           
+
+         Software Requirement Specifications 
+         For GitHub Statistics 
+   
+  1.1 Introduction 
+  Version control system as git on local machines and GitHub on the web  are important tools for developing software  while tracking the building , deleting , branching of the code and the auxiliary files .
+Also the sequential or concurrent contribution inputs from multiple developers represents an extended flexibility.
+   1.2  Purpose 
+   This document  will touch on Software Requirements Specifications(SRS) from both external aspects and internal  working system.  Also the pallet of non-functional attributes that participates in the completeness of an on stage usable application  is described .   
+    1.3 Assumptions and Dependencies
+ From the very inception of the project a embryo website was created  with a   contributor box  where all ideas  from the user, system  administrator  , developer etc . were collected and considered . 
+  The accessibility of this application is  meant to be compatible across  the proteinoid diversity of Operating System(Windows, Android , MacOS etc)   and electronic devices available (Desktop, Laptops, Mobiles, Projectors).
+          This project is designed to be open-ended for customization , administration by the clients and modulated for ease further development.
+2 Software Product   Overview
+
+ 
+
+ 
+
+
+   
+
