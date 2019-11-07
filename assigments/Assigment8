@@ -13,12 +13,44 @@ Also the sequential or concurrent contribution inputs from multiple developers r
  From the very inception of the project a embryo website was created  with a   contributor box  where all ideas  from the user, system  administrator  , developer etc . were collected and considered . 
   The accessibility of this application is  meant to be compatible across  the proteinoid diversity of Operating System(Windows, Android , MacOS etc)   and electronic devices available (Desktop, Laptops, Mobiles, Projectors).
           This project is designed to be open-ended for customization , administration by the clients and modulated for ease further development.
+
+
 2 Software Product   Overview
 
- 
 
- 
+     2.1. Description of The Problem
+     
+     GitHub as a software developmental platform offeres a colaborative environment over the Internet. The data and metadata associated 
+     with individual repositories as well as the activities over these repositories is somehow raw by design .Thus the oportunity of integrating and manipulating this data remains open for variuos kind of analysis including statistical analysis futher wraped by 
+     adapting application programming interface (API).
+     
+      2.2  Technologies Used
+      
+     $ As a start Internet connection is required and accessed via Server, Desktop, Laptop of Mobile Device .This implies trasposability ,  compatibility 
+   and testing    of the software across various environments. 
+     $ Browsers endowed with developers' tool for accessing the elements and their attributes, group, collect and process them
+     $ coherent GitHub  data/actions  desired as  end poit results, processing goals in terms of language/software handler of the task.
 
+   2.3 System Architecture
+     Fig ...depict high level system architecture
+     ^Native GitHub Data/actions Interface-> Window interface for constructing and editing Repositories but also 
+     ^GitHub  Data/actions  Model  -->definitions of classes to organize data, tasks, profiles, sessions etc
+     ^GitHub  Data/actions New Querry ?Interface -->game like environment for experimenting
+     ^GitHub  Data/actions soleved Queries storage  by  Libraries &&&&Interface fr sorting, importing data model and raw collected data.     
+ user   ------  GitHub-----clikable link on resources analysis----
+
+   2.4 System Workflow
+   Fig ... is the typical sequence of events during a git ub querry session.
+   
+   3. Requirements Traceability 
+        of...Inputs:commits , branches, pulls request 
+           ..Menus 
+           ..Query Editing - provides a logical formul for querry execution
+           ..Task Editing ->the dynamic modificatios of the querry
+           ..Profiles of GitHub actioneers
+           ..Importing /Exporting/Validating information
+           ..Session a cut through a specific aspect GitHub or and software interacting with it
+           ..Execution and Results obtained from GitHub querries or other actions.
 
    
 
