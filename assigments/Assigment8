@@ -33,6 +33,8 @@ Also the sequential or concurrent contribution inputs from multiple developers r
 
    2.3 System Architecture
      Fig ...depict high level system architecture
+     Fig:https://docs.google.com/document/d/1ZeACZHSVKaaOlZeDam1GkkhZF6om0lR3SJ-IHQnK4IY/edit
+     
      ^Native GitHub Data/actions Interface-> Window interface for constructing and editing Repositories but also 
      ^GitHub  Data/actions  Model  -->definitions of classes to organize data, tasks, profiles, sessions etc
      ^GitHub  Data/actions New Querry ?Interface -->game like environment for experimenting
@@ -41,16 +43,27 @@ Also the sequential or concurrent contribution inputs from multiple developers r
 
    2.4 System Workflow
    Fig ... is the typical sequence of events during a git ub querry session.
-   
+    https://drive.google.com/drive/folders/0AGGXXD9xNkywUk9PVA
+    https://www.draw.io/#G1_bXDz2dhK7h2vBXvx636mN7OCbh4idr0
    3. Requirements Traceability 
         of...Inputs:commits , branches, pulls request 
            ..Menus 
-           ..Query Editing - provides a logical formul for querry execution
+           ..Query Editing - provides a logical formula for querry execution
            ..Task Editing ->the dynamic modificatios of the querry
            ..Profiles of GitHub actioneers
            ..Importing /Exporting/Validating information
            ..Session a cut through a specific aspect GitHub or and software interacting with it
            ..Execution and Results obtained from GitHub querries or other actions.
 
-   
+   4. The implementation is aiming to make use of  the following tools : HTML,CSS, JavaScript, JQuery , Canvas , MSSQL, PHP/Ajax.
+       Sketch: the proram uses a form to ask the user to fill in predifined parameters that are manipulated by JavaScript/Jquery, styled by CSS, sent over to the 
+       server and back to the users by PHP or Ajax,where SQL operates on data under the hood. 
+           The display of the data is facilitated by Canvas. 
+           
+    5. Software deployment  is realized under the standards for user and administrator respectively with the updates taking 
+    place periodically as the systems used are changing or upgrading.
+    6. The Software is patent pending and any conflicts need to be address to the desiner and the terms of use.
+        For any questions contact :****@mail.com the system designer.
+        
+        
 
